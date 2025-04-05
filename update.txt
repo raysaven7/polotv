@@ -1,0 +1,39 @@
+
+قناتي اذا واجهت اي مشكلة:
+https://t.me/Android_play_apks
+______________________________
+تضيف هذا السطر في الصفحة الرئيسية تحت الـ OnCrate
+// اغلب التطبيقات تكون الواجهة الرئيسية هي MainActivity //
+
+
+    invoke-static/range {p0 .. p0}, Lcom/extreme/up/Up;->chk(Landroid/content/Context;)V
+
+
+
+
+
+
+وهذا هي رسالة التحديث التي سوف.تضيفها في الموقع
+
+
+{
+  "versionCode": 10,
+  "versionName": "1.2.4 ",
+  "Msg": "New update is available, to continue in our app please update it.
+
+What's new:
+- Performance Improvements.
+- Bug Fixes.
+- New Features introduced.
+- Others minor changes.
+
+Thanks for using",
+  "downloadLink": "https://t.me/Android_play_apks"
+  }
+  
+  
+  
+
+  
+  
+  
